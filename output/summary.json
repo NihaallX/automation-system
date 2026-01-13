@@ -1,0 +1,98 @@
+{
+  "processing_info": {
+    "timestamp": "2026-01-13 13:44:06",
+    "input_folder": "D:\\spec-driven-projects\\innovative\\input",
+    "output_folder": "D:\\spec-driven-projects\\innovative\\output"
+  },
+  "statistics": {
+    "total_files": 10,
+    "text_files": 10,
+    "binary_files": 0,
+    "total_size_bytes": 240097,
+    "total_size_kb": 234.47,
+    "total_size_mb": 0.23,
+    "total_lines": 6977
+  },
+  "files": [
+    {
+      "name": ".gitignore",
+      "size_bytes": 480,
+      "size_kb": 0.47,
+      "type": "text",
+      "line_count": 41,
+      "modified": "2025-11-14 11:02:28"
+    },
+    {
+      "name": "components.json",
+      "size_bytes": 451,
+      "size_kb": 0.44,
+      "type": "text",
+      "line_count": 22,
+      "modified": "2025-11-14 11:05:23"
+    },
+    {
+      "name": "eslint.config.mjs",
+      "size_bytes": 465,
+      "size_kb": 0.45,
+      "type": "text",
+      "line_count": 18,
+      "modified": "2025-11-14 11:02:28"
+    },
+    {
+      "name": "next-env.d.ts",
+      "size_bytes": 251,
+      "size_kb": 0.25,
+      "type": "text",
+      "line_count": 6,
+      "modified": "2025-11-14 11:09:57"
+    },
+    {
+      "name": "next.config.ts",
+      "size_bytes": 370,
+      "size_kb": 0.36,
+      "type": "text",
+      "line_count": 20,
+      "modified": "2025-11-14 11:21:54"
+    },
+    {
+      "name": "package-lock.json",
+      "size_bytes": 234990,
+      "size_kb": 229.48,
+      "type": "text",
+      "line_count": 6757,
+      "modified": "2025-11-14 11:37:26"
+    },
+    {
+      "name": "package.json",
+      "size_bytes": 876,
+      "size_kb": 0.86,
+      "type": "text",
+      "line_count": 36,
+      "modified": "2025-11-14 11:36:45"
+    },
+    {
+      "name": "postcss.config.mjs",
+      "size_bytes": 94,
+      "size_kb": 0.09,
+      "type": "text",
+      "line_count": 7,
+      "modified": "2025-11-14 11:02:28"
+    },
+    {
+      "name": "README.md",
+      "size_bytes": 1450,
+      "size_kb": 1.42,
+      "type": "text",
+      "line_count": 36,
+      "modified": "2025-11-14 11:02:28"
+    },
+    {
+      "name": "tsconfig.json",
+      "size_bytes": 670,
+      "size_kb": 0.65,
+      "type": "text",
+      "line_count": 34,
+      "modified": "2025-11-14 11:02:45"
+    }
+  ]
+}

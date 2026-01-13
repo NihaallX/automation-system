@@ -1,0 +1,46 @@
+📂 Input:  D:\spec-driven-projects\innovative\input
+📂 Output: D:\spec-driven-projects\innovative\output
+------------------------------------------------------------
+🔍 Validating inputs...
+
+  ✓ Input folder exists
+  ✓ Path is a directory
+  ✓ Folder is readable
+  ✓ Found 10 file(s)
+  ✓ All files are readable
+
+✅ Validation passed - 10 file(s) ready
+------------------------------------------------------------
+📊 Processing files...
+
+  [1/10] .gitignore
+  [2/10] components.json
+  [3/10] eslint.config.mjs
+  [4/10] next-env.d.ts
+  [5/10] next.config.ts
+  [6/10] package-lock.json
+  [7/10] package.json
+  [8/10] postcss.config.mjs
+  [9/10] README.md
+  [10/10] tsconfig.json
+
+✅ Processed 10 file(s) successfully
+------------------------------------------------------------
+📝 Output files created:
+  • Summary: summary.json
+  • Log:     processing.log
+------------------------------------------------------------
+📈 SUMMARY STATISTICS
+
+  Total Files:   10
+  Text Files:    10
+  Binary Files:  0
+  Total Size:    234.47 KB (0.23 MB)
+  Total Lines:   6,977
+------------------------------------------------------------
+============================================================
+                   COMPLETED SUCCESSFULLY
+============================================================
+Duration: 0.08 seconds
+Output:   D:\spec-driven-projects\innovative\output
+============================================================
