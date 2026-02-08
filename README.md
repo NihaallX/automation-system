@@ -3,7 +3,7 @@
 ## Overview
 
 This is a small Python automation script that processes files from an input folder, validates required inputs, and generates a summary and a log file.  
-The focus is on **clear structure**, **safe failure**, and **predictable behavior**.
+The focus is on **clear structure**, **safe failure**, and **predictable behavior** and **linear workflow**
 
 ## What the program does and why and how it does
 
